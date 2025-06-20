@@ -19,3 +19,22 @@ A full-stack, production-ready Employee Management System with secure authentica
 - 📂 Production-grade folder structure
 
 ---
+
+## 🛠️ Tech Stack
+
+| Layer       | Tools                                      |
+|-------------|--------------------------------------------|
+| Backend     | Node.js, Express.js, MongoDB, Mongoose     |
+| Auth        | JWT (Access + Refresh), Bcrypt             |
+| Validation  | express-validator                          |
+| Frontend    | React, Tailwind CSS, Redux Toolkit         |
+| Hosting     | MongoDB Atlas                              |
+
+
+## 🧑‍💻 Roles & Permissions
+
+| Roles       | Capabilities                            |
+|-------------|-----------------------------------------|
+| Admin       | Full control: manage users, view stats  |  
+| Manager     | Moderate control: manage employees      |    
+| Employee    | Limited access: view profile only       |
